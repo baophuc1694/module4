@@ -12,8 +12,9 @@
 </head>
 <body>
 <form action="/trun">
-<input type="text" name="word">
-<input type="submit" value="Enter">
+    <input type="text" name="word">
+    <input type="submit" value="Enter">
 </form>
+
 </body>
 </html>
