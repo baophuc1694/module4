@@ -23,7 +23,8 @@ public class SandwichController {
             return "home";
         }
         for (int i=0; i<condiment.length; i++){
-            if (i < condiment.length - 2){
+            if (i < condiment.length - 2
+            ){
                 result.append(condiment[i]).append(",");
             }else {
                 result.append(condiment[i]);

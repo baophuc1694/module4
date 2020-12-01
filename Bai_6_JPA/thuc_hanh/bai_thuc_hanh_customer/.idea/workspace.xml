@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eca451bc-cc0f-47fe-811c-848d76c8e5d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/src/main/resources/hibernate.conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/.idea/modules/bai_san_pham.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/java/com/codegym/repository/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/java/com/codegym/repository/Iml/ProductRepositoryIml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/java/com/codegym/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/java/com/codegym/service/Impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/resources/hibernate.conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/bai_tap/bai_san_pham/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/thuc_hanh/thuc_hanh_quan_ly_khach_hang/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/thuc_hanh/thuc_hanh_quan_ly_khach_hang/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/thuc_hanh/thuc_hanh_quan_ly_khach_hang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/thuc_hanh/thuc_hanh_quan_ly_khach_hang/.idea/modules/thuc_hanh_quan_ly_khach_hang.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/thuc_hanh/thuc_hanh_quan_ly_khach_hang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/thuc_hanh/thuc_hanh_quan_ly_khach_hang/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_ORM/thuc_hanh/thuc_hanh_quan_ly_khach_hang/src/main/resources/hibernate.conf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai_2_Spring_Controller/bai_tap/bai_tap_2_may_tinh/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai_2_Spring_Controller/bai_tap/bai_tap_2_may_tinh/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai_2_Spring_Controller/bai_tap/bai_tap_2_sandwich/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai_2_Spring_Controller/bai_tap/bai_tap_2_sandwich/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai_2_Spring_Controller/bai_tap/bai_tap_2_sandwich/src/main/java/controller/SandwichController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai_2_Spring_Controller/bai_tap/bai_tap_2_sandwich/src/main/java/controller/SandwichController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai_2_Spring_Controller/thuc_hanh/thuc_hanh_bai_2_danh_sach_khach_hang/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bai_2_Spring_Controller/thuc_hanh/thuc_hanh_bai_2_danh_sach_khach_hang/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.idea/modules/bai_tap_4_san_pham.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/.idea/modules/bai_tap_4_san_pham.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/build/classes/java/main/com/codegym/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/build/classes/java/main/com/codegym/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/build/classes/java/main/com/codegym/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/build/classes/java/main/com/codegym/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/build/classes/java/main/com/codegym/service/Impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/build/classes/java/main/com/codegym/service/Impl/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/build/libs/bai_tap_4_san_pham-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/build/libs/bai_tap_4_san_pham-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/src/main/java/com/codegym/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/src/main/java/com/codegym/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/src/main/java/com/codegym/service/Impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_Thymleaf/bai_tap/bai_tap_4_san_pham/src/main/java/com/codegym/service/Impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/.idea/artifacts/bai_tap_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/bai_tap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-aop-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-aspects-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-beans-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-context-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-context-support-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-core-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-expression-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-instrument-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-jdbc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-jms-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-messaging-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-orm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-oxm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-test-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-tx-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-web-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/lib/spring-webmvc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/classes/controller/ConvertController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/classes/service/ConvertService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/classes/service/impl/ConvertServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-aop-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-aspects-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-beans-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-context-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-context-support-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-core-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-expression-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-instrument-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-jdbc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-jms-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-messaging-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-orm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-oxm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-test-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-tx-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-web-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/lib/spring-webmvc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/artifacts/bai_tap_war_exploded/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/production/bai_tap/controller/ConvertController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/production/bai_tap/service/ConvertService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/out/production/bai_tap/service/impl/ConvertServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/src/controller/ConvertController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/src/service/ConvertService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/src/service/impl/ConvertServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap/web/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/.idea/artifacts/bai_tap_1_tu_dien_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/bai_tap_1_tu_dien.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-aop-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-aspects-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-beans-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-context-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-context-support-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-core-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-expression-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-instrument-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-jdbc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-jms-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-messaging-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-orm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-oxm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-test-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-tx-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-web-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/lib/spring-webmvc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/classes/controller/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/classes/service/DictionaryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/classes/service/DictionaryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-aop-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-aspects-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-beans-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-context-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-context-support-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-core-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-expression-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-instrument-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-jdbc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-jms-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-messaging-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-orm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-oxm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-test-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-tx-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-web-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/lib/spring-webmvc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/artifacts/bai_tap_1_tu_dien_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/production/bai_tap_1_tu_dien/controller/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/production/bai_tap_1_tu_dien/service/DictionaryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/out/production/bai_tap_1_tu_dien/service/DictionaryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/src/controller/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/src/service/DictionaryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/src/service/DictionaryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/web/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/web/WEB-INF/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_tap_1_tu_dien/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/.idea/artifacts/bai1_thuc_hanh_quan_ly_khach_hang_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/bai1_thuc_hanh_quan_ly_khach_hang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-aop-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-aspects-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-beans-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-context-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-context-support-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-core-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-expression-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-instrument-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-jdbc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-jms-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-messaging-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-orm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-oxm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-test-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-tx-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-web-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/lib/spring-webmvc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai1_thuc_hanh_quan_ly_khach_hang/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/.idea/artifacts/bai_1_thuc_hanh_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/bai_1_thuc_hanh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-aop-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-aspects-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-beans-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-context-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-context-support-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-core-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-expression-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-instrument-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-jdbc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-jms-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-messaging-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-orm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-oxm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-test-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-tx-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-web-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/lib/spring-webmvc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/classes/controller/GreetingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-aop-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-aspects-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-beans-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-context-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-context-support-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-core-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-expression-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-instrument-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-jdbc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-jms-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-messaging-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-orm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-oxm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-test-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-tx-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-web-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/lib/spring-webmvc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/artifacts/bai_1_thuc_hanh_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/out/production/bai_1_thuc_hanh/controller/GreetingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/src/controller/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/web/WEB-INF/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh/bai_1_thuc_hanh/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/build/libs/bai_2_email-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/build/libs/bai_2_email-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/src/main/webapp/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/src/main/webapp/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/src/main/webapp/views/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thuc_hanh_bai_2_email/src/main/webapp/views/success.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1kr2BG1NhBeljuF6nPa8CgFa18Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codegym.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eca451bc-cc0f-47fe-811c-848d76c8e5d8" name="Default Changelist" comment="" />
+      <created>1606444251215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606444251215</updated>
+      <workItem from="1606444258733" duration="3349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1606447167062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606447167062" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1606447616795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606447616795" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1606447616795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606447616795" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1606447616795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606447616795" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1606447616795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606447616795" />
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom" timestamp="1606447616795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606447616795" />
+    <state width="1323" height="179" key="GridCell.Tab.1.center" timestamp="1606447616795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1606447616795" />
+    <state width="1323" height="179" key="GridCell.Tab.1.left" timestamp="1606447616795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1606447616795" />
+    <state width="1323" height="179" key="GridCell.Tab.1.right" timestamp="1606447616795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606447616795" />
+  </component>
+</project>

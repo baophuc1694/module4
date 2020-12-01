@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="/layout :: PhucProfesional">
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+<h3>Modify Blog</h3>
+<p>
+    <a th:href="@{/}">
+        Back To Blog List
+    </a>
+</p>
+<div id = "form">
+    <p>
+        <a th:href="@{/blog/create}">
+            Add New Blog
+        </a>
+
+    </p>
+    <table id="blogs" border="1">
+        <thead>
+        <tr>
+            <th>Title</th>
+            <th>Content</th>
+            <th>NamePost</th>
+            <th>DatePost</th>
+            <th>Edit</th>
+            <th>Delete</th>
+            <th>View</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="row, rowStat : ${listBlog}">
+            <td th:text="${row.getTitle()}"></td>
+            <td th:text="${row.getContent()}"></td>
+            <td th:text="${row.getNamePost()}"></td>
+            <td th:text="${row.getDatePost()}"></td>
+            <td><a th:href="@{/blog/edit(id=${row.getId()})}">edit</a></td>
+            <td><a th:href="@{/blog/{id}/delete(id=${row.getId()})}">delete</a></td>
+            <td><a th:href="@{/blog/{id}/view(id=${row.getId()})}">view</a></td>
+        </tr>
+        </tbody>
+    </table>
+    <div class="notify">
+        <div th:if="${success}">
+            <span th:text="${success}"></span>
+        </div>
+    </div>
+    <footer th:replace="/layout :: footer"></footer>
+
+
+    </form>
+    <a th:if="${listBlog.hasPrevious()}" th:href="@{/(page = ${listBlog.number - 1}, keyword = ${keywordAfterCheck})}">Previous</a>
+    <span th:text="${listBlog.number + 1}"></span>/<span th:text="${listBlog.totalPages}"></span>
+    <a th:if="${listBlog.hasNext()}" th:href="@{/(page = ${listBlog.number + 1}, keyword = ${keywordAfterCheck})}">Next</a>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"
+        integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s"
+        crossorigin="anonymous"></script>
+</body>
+</html>
